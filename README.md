@@ -1,0 +1,2 @@
+# comparative-analysis-of-DL-models-with-livXAI-for-liver-fribrosis-classification-using-ultrasound
+Deep learning-based liver fibrosis classification system using ultrasound images to identify fibrosis stages (F0–F4). Implemented and compared EfficientNet, ResNet50, DenseNet121, VGG16, and MobileNet architectures with explainable AI techniques such as Grad-CAM and Score-CAM for interpretable and accurate clinical decision support.
